@@ -1,2 +1,2 @@
 # hello-world
-repository practice
+practicing with git ¯\_(ツ)_/¯
