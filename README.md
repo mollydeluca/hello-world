@@ -1,2 +1,2 @@
 # hello-world
-practicing with git (round 2) ¯\_(ツ)_/¯
+practicing with git ¯\_(ツ)_/¯
